@@ -4,26 +4,22 @@
 
 ### Projects
 
-[Cancer region extarction in Whole Slide Images](/sample_page)
-<img src="images/kaggle.png?raw=true"/>
+[Cancer region extarction in Whole Slide Images](https://divyaprabha123.github.io/Cancer-region-detection/)
+<img src="images/cancer roi.png?raw=true"/>
 
 ---
-[Earthquake prediction and Analysis](/pdf/sample_presentation.pdf)
+[Earthquake prediction and Analysis](https://divya123.shinyapps.io/equake2/)
 <img src="images/earthquake.png?raw=true"/>
 
 ---
-[Auto-grading handwritten Mathematical worksheets](http://example.com/)
+[Auto-grading handwritten Mathematical worksheets](https://github.com/divyaprabha123/Autograding-handwritten-mathematical-worksheets)
 <img src="images/solve.jpeg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+   [Autograding handwritten mathematical worksheets](https://towardsdatascience.com/computer-vision-auto-grading-handwritten-mathematical-answersheets-8974744f72dd)
 
 ---
 
