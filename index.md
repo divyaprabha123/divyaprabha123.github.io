@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cancer region extarction in Whole Slide Images](/sample_page)
+<img src="https://github.com/divyaprabha123/Cancer-region-detection/images/kaggle.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Earthquake prediction and Analysis](/pdf/sample_presentation.pdf)
+<img src="images/earthquake.png?raw=true"/>
+
+---
+[Auto-grading handwritten Mathematical worksheets](http://example.com/)
+<img src="images/solve.jpeg?raw=true"/>
 
 ---
 
