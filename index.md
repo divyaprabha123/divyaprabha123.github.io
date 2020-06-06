@@ -5,7 +5,7 @@
 ### Projects
 
 [Cancer region extarction in Whole Slide Images](/sample_page)
-<img src="https://github.com/divyaprabha123/Cancer-region-detection/images/kaggle.png?raw=true"/>
+<img src="images/kaggle.png?raw=true"/>
 
 ---
 [Earthquake prediction and Analysis](/pdf/sample_presentation.pdf)
